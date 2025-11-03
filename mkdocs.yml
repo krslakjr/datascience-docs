@@ -1,8 +1,8 @@
-site_name: MMST - Web development
+site_name: MMST - Data Science
 # site_url:
 
-repo_url: https://github.com/BHFFMMST/web-development
-repo_name: BHFFMMST/web-development
+repo_url: https://github.com/BHFFMMST/datascience-docs
+repo_name: BHFFMMST/datascience-docs
 
 #
 # Theme Settings
@@ -100,13 +100,15 @@ markdown_extensions:
 
 nav:
   - Uvod: index.md
-  - Introduction to web development and VC system:
+  - Introduction to Data Science and Python:
       - Uvod: content/introduction/index.md
-  - React.js library:
-      - Uvod: content/react-library/index.md
-  - APIs and RESTful services:
-      - Uvod: content/restful-api/index.md
-  - Data manipulation and introduction to deployment:
-      - Uvod: content/data-manipulation/index.md
-  - Moodflix project:
-      - Uvod: content/react-project/index.md
+  - Working with Data - NumPy and Pandas Libraries:
+      - Uvod: content/data/index.md
+  - Data Visualization (Matplotlib and Seaborn):
+      - Uvod: content/data-visualization/index.md
+  - Introduction to Statistics and Descriptive Analysis:
+      - Uvod: content/statistics/index.md
+  - Introduction to Machine Learning:
+      - Uvod: content/machine-learning/index.md
+  - Mini Project and Presentation of Results:
+      - Uvod: content/mini-project/index.md

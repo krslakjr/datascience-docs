@@ -1,18 +1,16 @@
 # Uvod
 
-MMST Web development React radionica je namijenjena svim osobama koje imaju određeno predznanje u izradi web stranica, a žele da se upoznaju sa kreiranjem dinamičkih i stranica s React.js bibliotekom.
+MMST Data Science radionica namijenjena je svima koji žele zakoračiti u svijet analize podataka i razumjeti kako iz velikih količina informacija izdvojiti korisne uvide uz pomoć programskog jezika Python.
 
-U zadnjih dvadesetak godina Web stranice su jedan od glavnih načina digitalne komunikacije.
-Za razliku od standardnih medija, Web nudi mogućnost objave sadržaja i to na jednostavan način.
+Data Science je jedno od najtraženijih područja današnjice jer povezuje programiranje, analizu podataka, statistiku i mašinsko učenje. Kroz praktične primjere i vježbe, učesnici će naučiti kako prikupljati, obrađivati, analizirati i vizualizirati podatke te kako ih pretvoriti u konkretne zaključke.
 
-Preporučeno prethodno znanje za ovu radionicu su razumijevanje:
+Preporučeno prethodno znanje za ovu radionicu uključuje:
 
-- Šta je internet pretraživač
-- Korištenje pretraživača
-- Poznavanje osnova rada na računaru (kreiranje, izmjene i brisanje datoteka)
-- Poznavanje HTML, CSS i JavaScript
+- Osnovno razumijevanje rada na računaru (kreiranje, izmjena i brisanje datoteka)
+- Osnovno poznavanje engleskog jezika (za razumijevanje koda i biblioteka)
+- Poželjno: osnovno znanje iz matematike i logičkog razmišljanja
 
-Kroz ovu radionicu ćete naučiti korištenje raznih alata i opcija za kreiranje i uređivanje web stranica, kao i njihovih elemenata na moderan način, pored čega ćete imati priliku naučiti pisati uredan, jednostavan kod.
+Tokom radionice učesnici će se upoznati s osnovama Pythona, bibliotekama za rad s podacima poput NumPy i Pandas, tehnikama vizualizacije podataka pomoću Seaborn i Matplotlib alata, te osnovama statistike i mašinskog učenja. Na kraju, znanja će primijeniti u mini projektu i prezentaciji rezultata.
 
 ## BHFF Mobile Makerspace Team
 
