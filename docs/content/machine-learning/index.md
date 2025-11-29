@@ -167,9 +167,9 @@ print("Model je sada spreman za treniranje koristeći model.fit(podaci, oznake, 
 
 ### Sažetak ključnih tačaka
 * **ML vs deep learning:** **Mašinsko učenje** je širok pojam za modele koji uče iz podataka; **Deep learning** je specijalizovani podskup koji koristi slojevite mreže, idealan za složeno prepoznavanje obrazaca u nestrukturiranim podacima (slike, tekst, zvuk).
-* **Potreba za podacima:** Svaki tip mašinskog učenja, a posebno deep learning, konstantno zahtjeva ogromne količine **kvalitetnih podataka**. Glavni razlog preciznosti današnjih modela je broj kvalitetnih podataka.
+* **Potreba za podacima:** Svaki tip mašinskog učenja, a posebno deep learning, konstantno zahtijeva ogromne količine **kvalitetnih podataka**. Glavni razlog preciznosti današnjih modela je broj kvalitetnih podataka.
 * **Računarski troškovi:** Treniranje složenih modela zahtijeva specijalizovani hardver (**GPU**). Alati poput Google Colab-a čine ovo dostupnim.
-* **Proces je iterativan:** Izgradnja ML modela nije jednokratni zadatak programiranja, to je kontinuirani ciklus **prikupljanja podataka, treniranja, testiranja i prerađivanja** modela dok ne postigne željene performanse.
+* **Proces je iterativan:** Izgradnja ML modela nije jednokratni zadatak programiranja, to je kontinuirani ciklus *prikupljanja podataka, treniranja, testiranja i prerađivanja* modela dok ne postigne željene performanse.
 
 ## Dodatak: Resursi za samostalno učenje
 
